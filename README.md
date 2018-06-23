@@ -8,5 +8,6 @@ Basic
 
 ## 1) Newegg.py
 #### Lib and Package: bs4, BeatifulSoup, urllib
-Preceding application open newegg webpage it extract brand, product detail  
-and shipping of each memory card display on single page
+Preceding application open newegg webpage it extract brand, product detail
+and shipping of each memory card display on single page  
+Write and store all data in CSV Format
