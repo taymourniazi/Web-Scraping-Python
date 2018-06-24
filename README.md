@@ -17,3 +17,5 @@ Scrape data and tags from http://quotes.toscrape.com/
 ## A-2) Quotes (Scrape heading and top ten tags)
 ## A-3) Quotes (Scrape title, quote, attached tags, author)
 Iterate over next page till page end with quotes(text) and tags
+## A-4) LinkExtraction books.py
+The code extract all the links mention in web pages using LinkExtractor function from scrapy.
